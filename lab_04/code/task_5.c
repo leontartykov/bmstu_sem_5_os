@@ -13,7 +13,6 @@
 #define GET_SIGNAL 1
 
 int mode = NO_SIGNAL;
-void empty(int signal_number) {}
 void change_mode(int signal_number){
     mode = GET_SIGNAL;
 }
@@ -30,7 +29,7 @@ int main(void)
     int res_exec = 0;
     
     pipe(file_descriptors);
-    signal(SIGINT, empty);
+    signal(SIGINT, change_mode);
     
     printf("Parent - pid: %d, pgrp: %d\n", getpid(), getpgrp());
     
@@ -44,7 +43,6 @@ int main(void)
         }
         else if (child_pid == FORK_OK)
         {
-            signal(SIGINT, change_mode);
             sleep(2);
             if (mode == GET_SIGNAL)
             {

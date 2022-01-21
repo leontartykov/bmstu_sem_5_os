@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.9.14)  23 NOV 2021 14:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.9.14)  30 NOV 2021 18:34
 entering extended mode
 **./report.tex
 (report.tex
@@ -1180,15 +1180,7 @@ LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 7
 
 (C:\Users\Р›РµРІ\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-)<<t2a.cmap>> (task_1.aux) (task_2.aux) (task_3.aux) (task_4.aux
-
-LaTeX Warning: Label `exec' multiply defined.
-
-) (task_5.aux
-
-LaTeX Warning: Label `exec' multiply defined.
-
-))
+)<<t2a.cmap>> (task_1.aux) (task_2.aux))
 \openout1 = `report.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
@@ -1324,32 +1316,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--21
  []
 
 
-Overfull \hbox (104.45601pt too wide) in paragraph at lines 31--34
+Overfull \hbox (104.45601pt too wide) in paragraph at lines 31--35
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--35
+
+ []
+
+
+Overfull \hbox (129.1488pt too wide) in paragraph at lines 36--39
 [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--34
+Underfull \hbox (badness 10000) in paragraph at lines 36--39
 
  []
 
 
-Overfull \hbox (129.1488pt too wide) in paragraph at lines 35--38
-[] [] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 35--38
-
- []
-
-
-Overfull \hbox (12.04547pt too wide) in paragraph at lines 40--45
+Overfull \hbox (12.04547pt too wide) in paragraph at lines 41--46
 [] 
  []
 
 
-Overfull \hbox (18.00003pt too wide) in paragraph at lines 48--53
+Overfull \hbox (18.00003pt too wide) in paragraph at lines 49--54
 [] 
  []
 
@@ -1364,149 +1356,143 @@ Overfull \hbox (18.00003pt too wide) in paragraph at lines 48--53
 \openout2 = `task_1.aux'.
 
  (task_1.tex
-LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
-4.
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 1.
 
-(C:\Users\Р›РµРІ\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2acmtt.fd
-File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-)
+Overfull \hbox (3.79866pt too wide) in paragraph at lines 1--1
+|[]\T2A/cmr/m/n/29.86 Функции об-ра-бот-чи-ка пре-ры-ва-ний
+ []
+
 [2
 
 
 
 
-]
-<../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_04/report/images/ta
-sk_1.png, id=52, 952.55875pt x 220.825pt>
-File: ../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_04/report/imag
-es/task_1.png Graphic file (type png)
-<use ../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_04/report/image
-s/task_1.png>
-Package pdftex.def Info: ../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os
-/lab_04/report/images/task_1.png  used on input line 55.
-(pdftex.def)             Requested size: 476.27821pt x 110.41222pt.
+] [3]) [4]
+\openout2 = `task_2.aux'.
 
-Overfull \hbox (21.0341pt too wide) in paragraph at lines 55--56
+ (task_2.tex
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 2.
+[5
+
+
+
+
+]
+<../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_01/part_2/report/im
+ages/priority.png, id=63, 464.937pt x 296.90926pt>
+File: ../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_01/part_2/repo
+rt/images/priority.png Graphic file (type png)
+<use ../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_01/part_2/repor
+t/images/priority.png>
+Package pdftex.def Info: ../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os
+/lab_01/part_2/report/images/priority.png  used on input line 16.
+(pdftex.def)             Requested size: 418.43942pt x 267.21585pt.
+ [6 <../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_01/part_2/repor
+t/images/priority.png>]
+<../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_01/part_2/report/im
+ages/table_priority_windows.png, id=69, 640.19176pt x 220.4235pt>
+File: ../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_01/part_2/repo
+rt/images/table_priority_windows.png Graphic file (type png)
+<use ../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_01/part_2/repor
+t/images/table_priority_windows.png>
+Package pdftex.def Info: ../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os
+/lab_01/part_2/report/images/table_priority_windows.png  used on input line 49.
+
+(pdftex.def)             Requested size: 448.13118pt x 154.29538pt.
+ [7 <../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_01/part_2/repor
+t/images/table_priority_windows.png>]
+Overfull \hbox (2.41673pt too wide) in paragraph at lines 91--93
+\T2A/cmr/m/n/14.4 служ-бой поль-зо-ва-тель-ско-го ре-жи-ма - служ-ба пла-ни-ров
+-щи-ка клас-са муль-
+ []
+
+<../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_01/part_2/report/im
+ages/plan_categories.png, id=75, 506.49225pt x 206.57175pt>
+File: ../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_01/part_2/repo
+rt/images/plan_categories.png Graphic file (type png)
+<use ../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_01/part_2/repor
+t/images/plan_categories.png>
+Package pdftex.def Info: ../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os
+/lab_01/part_2/report/images/plan_categories.png  used on input line 106.
+(pdftex.def)             Requested size: 455.8388pt x 185.91284pt.
+
+Overfull \hbox (0.5947pt too wide) in paragraph at lines 106--107
  [][] 
  []
 
-) [3 <../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_04/report/imag
-es/task_1.png>]
-\openout2 = `task_2.aux'.
 
- (task_2.tex [4
+Overfull \hbox (33.69077pt too wide) in paragraph at lines 102--110
+\T2A/cmr/m/n/14.4 пла-ни-ро-ва-ния по-то-ков яв-ля-ет-ся ка-те-го-рия пла-ни-ро
+-ва-ния (scheduling category).
+ []
+
+[8]
+Overfull \hbox (1.29082pt too wide) in paragraph at lines 117--118
+[]\T2A/cmr/m/n/14.4 Очередь го-то-вых к вы-пол-не-нию про-цес-сов фор-ми-ру-ет-
+ся со-глас-но при-
+ []
+
+[9 <../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_01/part_2/report
+/images/plan_categories.png>]
+<../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_01/part_2/report/im
+ages/priority_unix.png, id=83, 476.982pt x 92.14426pt>
+File: ../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_01/part_2/repo
+rt/images/priority_unix.png Graphic file (type png)
+<use ../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_01/part_2/repor
+t/images/priority_unix.png>
+Package pdftex.def Info: ../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os
+/lab_01/part_2/report/images/priority_unix.png  used on input line 137.
+(pdftex.def)             Requested size: 429.27982pt x 82.92905pt.
+ [10 <../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_01/part_2/repo
+rt/images/priority_unix.png>]
+Overfull \hbox (1.29012pt too wide) in paragraph at lines 147--148
+[]\T2A/cmr/m/n/14.4 При со-зда-нии про-цес-са по-ле p_cpu ини-ци-а-ли-зи-ру-ет-
+ся ну-лем. НА каж-
+ []
+
+) [11] [12]
+\openout2 = `conclusion.aux'.
+
+ (conclusion.tex) [13
 
 
 
 
 ]
-<../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_04/report/images/ta
-sk_2.png, id=61, 810.02625pt x 255.95625pt>
-File: ../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_04/report/imag
-es/task_2.png Graphic file (type png)
-<use ../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_04/report/image
-s/task_2.png>
-Package pdftex.def Info: ../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os
-/lab_04/report/images/task_2.png  used on input line 72.
-(pdftex.def)             Requested size: 405.01213pt x 127.9778pt.
-) [5 <../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_04/report/imag
-es/task_2.png>]
-\openout2 = `task_3.aux'.
 
- (task_3.tex [6
+Package caption Warning: Unused \captionsetup[lstlisting] on input line 36.
+See the caption package documentation for explanation.
 
-
-
-
-] [7]
-<../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_04/report/images/ta
-sk_3.png, id=73, 903.375pt x 661.47125pt>
-File: ../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_04/report/imag
-es/task_3.png Graphic file (type png)
-<use ../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_04/report/image
-s/task_3.png>
-Package pdftex.def Info: ../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os
-/lab_04/report/images/task_3.png  used on input line 86.
-(pdftex.def)             Requested size: 451.6864pt x 330.73482pt.
-) [8 <../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_04/report/imag
-es/task_3.png>]
-\openout2 = `task_4.aux'.
-
- (task_4.tex [9
-
-
-
-
-]
-<../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_04/report/images/ta
-sk_4.png, id=81, 780.9175pt x 309.155pt>
-File: ../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_04/report/imag
-es/task_4.png Graphic file (type png)
-<use ../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_04/report/image
-s/task_4.png>
-Package pdftex.def Info: ../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os
-/lab_04/report/images/task_4.png  used on input line 87.
-(pdftex.def)             Requested size: 390.4578pt x 154.57712pt.
- [10]) [11 <../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_04/repor
-t/images/task_4.png>]
-\openout2 = `task_5.aux'.
-
- (task_5.tex [12
-
-
-
-
-] [13]
-<../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_04/report/images/ta
-sk_5_1.png, id=96, 817.0525pt x 272.01625pt>
-File: ../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_04/report/imag
-es/task_5_1.png Graphic file (type png)
-<use ../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_04/report/image
-s/task_5_1.png>
-Package pdftex.def Info: ../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os
-/lab_04/report/images/task_5_1.png  used on input line 103.
-(pdftex.def)             Requested size: 408.52525pt x 136.00778pt.
-<../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_04/report/images/ta
-sk_5_2.png, id=97, 822.07124pt x 328.22626pt>
-File: ../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_04/report/imag
-es/task_5_2.png Graphic file (type png)
-<use ../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_04/report/image
-s/task_5_2.png>
-Package pdftex.def Info: ../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os
-/lab_04/report/images/task_5_2.png  used on input line 112.
-(pdftex.def)             Requested size: 411.0346pt x 164.11272pt.
-) [14 <../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_04/report/ima
-ges/task_5_1.png> <../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_0
-4/report/images/task_5_2.png>] (report.aux (00_title.aux) (task_1.aux) (task_2.
-aux) (task_3.aux)
-(task_4.aux) (task_5.aux))
-
-LaTeX Warning: There were multiply-defined labels.
-
- ) 
+(report.aux (00_title.aux) (task_1.aux) (task_2.aux) (conclusion.aux)) ) 
 Here is how much of TeX's memory you used:
- 31982 strings out of 478864
- 773547 string characters out of 2848186
- 1583418 words of memory out of 3000000
- 49265 multiletter control sequences out of 15000+600000
- 417358 words of font info for 54 fonts, out of 8000000 for 9000
+ 31520 strings out of 478864
+ 767838 string characters out of 2848186
+ 1354418 words of memory out of 3000000
+ 48819 multiletter control sequences out of 15000+600000
+ 418201 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 86i,19n,94p,856b,1738s stack positions out of 5000i,500n,10000p,200000b,80000s
- <C:\Users\Р›РµРІ\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\latt1
-000.pk> <C:\Users\Р›РµРІ\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\
-larm0600.pk> <C:\Users\Р›РµРІ\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dp
-i600\larm3583.pk> <C:\Users\Р›РµРІ\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t
-2a/dpi600\lati1728.pk> <C:\Users\Р›РµРІ\AppData\Local\MiKTeX\fonts/pk/ljfour/lh
-/lh-t2a/dpi600\larm1000.pk> <C:\Users\Р›РµРІ\AppData\Local\MiKTeX\fonts/pk/ljfo
-ur/lh/lh-t2a/dpi600\larm1728.pk> <C:\Users\Р›РµРІ\AppData\Local\MiKTeX\fonts/pk
-/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\Р›РµРІ\AppData\Local\MiKTeX\fon
-ts/pk/ljfour/lh/lh-t2a/dpi600\labx2074.pk> <C:\Users\Р›РµРІ\AppData\Local\MiKTe
-X\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx2986.pk> <C:\Users\Р›РµРІ\AppData\Local\
-MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk> <C:\Users\Р›РµРІ\AppData\L
-ocal\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1000.pk>
-Output written on report.pdf (14 pages, 1210763 bytes).
+ 86i,19n,94p,1846b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Us
+ers\Р›РµРІ\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1440.pk>
+ <C:\Users\Р›РµРІ\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx144
+0.pk> <C:\Users\Р›РµРІ\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\la
+rm2074.pk> <C:\Users\Р›РµРІ\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi6
+00\larm2986.pk> <C:\Users\Р›РµРІ\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a
+/dpi600\lati1728.pk> <C:\Users\Р›РµРІ\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/l
+h-t2a/dpi600\larm1000.pk> <C:\Users\Р›РµРІ\AppData\Local\MiKTeX\fonts/pk/ljfour
+/lh/lh-t2a/dpi600\larm1728.pk> <C:\Users\Р›РµРІ\AppData\Local\MiKTeX\fonts/pk/l
+jfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\Р›РµРІ\AppData\Local\MiKTeX\fonts
+/pk/ljfour/lh/lh-t2a/dpi600\labx2074.pk> <C:\Users\Р›РµРІ\AppData\Local\MiKTeX\
+fonts/pk/ljfour/lh/lh-t2a/dpi600\labx2986.pk> <C:\Users\Р›РµРІ\AppData\Local\Mi
+KTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk> <C:\Users\Р›РµРІ\AppData\Loc
+al\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1000.pk><C:/Users/Р›РµРІ/AppData
+/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Р›Рµ
+РІ/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/U
+sers/Р›РµРІ/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10
+.pfb>
+Output written on report.pdf (13 pages, 1143361 bytes).
 PDF statistics:
- 456 PDF objects out of 1000 (max. 8388607)
+ 489 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 164 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 154 words of extra memory for PDF output out of 10000 (max. 10000000)
 
