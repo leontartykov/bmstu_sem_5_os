@@ -22,9 +22,8 @@ int main(void)
         }
         else if (child_pid == FORK_OK)
         {
-            printf("Child_%d born - pid: %d, ppid: %d, pgrp: %d\n", i + 1, getpid(), getppid(), getpgrp());
             sleep(2);
-            printf("Child_%d is dead - pid: %d, ppid: %d, pgrp: %d\n", i+1, getpid(), getppid(), getpgrp());
+            printf("Child - pid: %d, ppid: %d, pgrp: %d\n", getpid(), getppid(), getpgrp());
             return 0;
         }
         else{

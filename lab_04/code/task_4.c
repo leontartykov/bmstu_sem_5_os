@@ -53,11 +53,12 @@ int main(void)
     
         printf("Child has finished - pid: %d, ppid = %d\n", child_pid, getppid());
     
-        if (WIFEXITED(status)){
-	    printf("Child exited with code %d\n", WEXITSTATUS(status));
+        int stat_val;
+        if (WIFEXITED(stat_val)){
+	        printf("Child exited with code %d\n", WEXITSTATUS(stat_val));
         }
         else {
-	    printf("Child terminated abnormally.\n");
+	        printf("Child terminated abnormally.\n");
         }
     }
     
@@ -67,6 +68,8 @@ int main(void)
 
     printf("Received message:\n%s", buffer);
 
+
+    
     printf("Parent - child_1_pid: %d, child_2_pid: %d, child_3_pid: %d\n", childs_pid[0], childs_pid[1], childs_pid[2]);
     printf("Parent process is dead\n");
     

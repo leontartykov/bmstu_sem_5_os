@@ -51,6 +51,8 @@ int main(void)
         }
     }
     
+       
+    
     printf("Parent - child_1_pid: %d, child_2_pid: %d, child_3_pid: %d\n", childs_pid[0], childs_pid[1], childs_pid[2]);
     printf("Parent process is dead\n");
     
