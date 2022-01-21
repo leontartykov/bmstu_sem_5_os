@@ -12,9 +12,14 @@
 #define NO_SIGNAL 0
 #define GET_SIGNAL 1
 
-int mode = NO_SIGNAL;
-void empty(int signal_number) {}
+int mode;
+void empty(int signal_number)
+{
+    printf("Parent get_signal.\n");
+    mode = NO_SIGNAL;
+}
 void change_mode(int signal_number){
+    printf("Child get_signal.\n");
     mode = GET_SIGNAL;
 }
 
@@ -30,7 +35,7 @@ int main(void)
     int res_exec = 0;
     
     pipe(file_descriptors);
-    signal(SIGINT, empty);
+    //signal(SIGINT, empty);
     
     printf("Parent - pid: %d, pgrp: %d\n", getpid(), getpgrp());
     
@@ -55,7 +60,6 @@ int main(void)
             else{
                 printf("No signal sent!\n");
             }
-
             return 0;
         }
         else{
@@ -66,18 +70,21 @@ int main(void)
     
     for (int i = 0; i < COUNT_CHILDS; i++)
     {
-        int status = 0;
+        int status;
         child_pid = wait(&status);
     
         printf("Child has finished - pid: %d, ppid = %d\n", child_pid, getppid());
     
-        if (WIFEXITED(status)){
-	    printf("Child exited with code %d\n", WEXITSTATUS(status));
+        int stat_val;
+        if (WIFEXITED(stat_val)){
+	    printf("Child exited with code %d\n", WEXITSTATUS(stat_val));
         }
         else {
 	    printf("Child terminated abnormally.\n");
         }
     }
+    
+    printf("return_parent\n");
     
 
     close(file_descriptors[1]);
