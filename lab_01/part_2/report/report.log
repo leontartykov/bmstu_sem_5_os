@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.9.14)  30 NOV 2021 18:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.9.14)  4 FEB 2022 21:06
 entering extended mode
 **./report.tex
 (report.tex
@@ -1180,7 +1180,7 @@ LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 7
 
 (C:\Users\Р›РµРІ\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-)<<t2a.cmap>> (task_1.aux) (task_2.aux))
+)<<t2a.cmap>> (task_1.aux) (task_2.aux) (conclusion.aux))
 \openout1 = `report.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
@@ -1367,19 +1367,19 @@ Overfull \hbox (3.79866pt too wide) in paragraph at lines 1--1
 
 
 
-] [3]) [4]
+]) [3]
 \openout2 = `task_2.aux'.
 
  (task_2.tex
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 2.
-[5
+[4
 
 
 
 
 ]
 <../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_01/part_2/report/im
-ages/priority.png, id=63, 464.937pt x 296.90926pt>
+ages/priority.png, id=60, 464.937pt x 296.90926pt>
 File: ../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_01/part_2/repo
 rt/images/priority.png Graphic file (type png)
 <use ../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_01/part_2/repor
@@ -1387,10 +1387,10 @@ t/images/priority.png>
 Package pdftex.def Info: ../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os
 /lab_01/part_2/report/images/priority.png  used on input line 16.
 (pdftex.def)             Requested size: 418.43942pt x 267.21585pt.
- [6 <../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_01/part_2/repor
+ [5 <../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_01/part_2/repor
 t/images/priority.png>]
 <../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_01/part_2/report/im
-ages/table_priority_windows.png, id=69, 640.19176pt x 220.4235pt>
+ages/table_priority_windows.png, id=66, 640.19176pt x 220.4235pt>
 File: ../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_01/part_2/repo
 rt/images/table_priority_windows.png Graphic file (type png)
 <use ../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_01/part_2/repor
@@ -1399,7 +1399,7 @@ Package pdftex.def Info: ../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os
 /lab_01/part_2/report/images/table_priority_windows.png  used on input line 49.
 
 (pdftex.def)             Requested size: 448.13118pt x 154.29538pt.
- [7 <../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_01/part_2/repor
+ [6 <../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_01/part_2/repor
 t/images/table_priority_windows.png>]
 Overfull \hbox (2.41673pt too wide) in paragraph at lines 91--93
 \T2A/cmr/m/n/14.4 служ-бой поль-зо-ва-тель-ско-го ре-жи-ма - служ-ба пла-ни-ров
@@ -1407,7 +1407,7 @@ Overfull \hbox (2.41673pt too wide) in paragraph at lines 91--93
  []
 
 <../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_01/part_2/report/im
-ages/plan_categories.png, id=75, 506.49225pt x 206.57175pt>
+ages/plan_categories.png, id=71, 506.49225pt x 206.57175pt>
 File: ../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_01/part_2/repo
 rt/images/plan_categories.png Graphic file (type png)
 <use ../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_01/part_2/repor
@@ -1426,16 +1426,16 @@ Overfull \hbox (33.69077pt too wide) in paragraph at lines 102--110
 -ва-ния (scheduling category).
  []
 
-[8]
+[7]
 Overfull \hbox (1.29082pt too wide) in paragraph at lines 117--118
 []\T2A/cmr/m/n/14.4 Очередь го-то-вых к вы-пол-не-нию про-цес-сов фор-ми-ру-ет-
 ся со-глас-но при-
  []
 
-[9 <../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_01/part_2/report
+[8 <../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_01/part_2/report
 /images/plan_categories.png>]
 <../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_01/part_2/report/im
-ages/priority_unix.png, id=83, 476.982pt x 92.14426pt>
+ages/priority_unix.png, id=80, 476.982pt x 92.14426pt>
 File: ../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_01/part_2/repo
 rt/images/priority_unix.png Graphic file (type png)
 <use ../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_01/part_2/repor
@@ -1443,17 +1443,23 @@ t/images/priority_unix.png>
 Package pdftex.def Info: ../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os
 /lab_01/part_2/report/images/priority_unix.png  used on input line 137.
 (pdftex.def)             Requested size: 429.27982pt x 82.92905pt.
- [10 <../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_01/part_2/repo
-rt/images/priority_unix.png>]
+ [9 <../../../../../../../msys64/home/Р›РµРІ/bmstu_sem_5_os/lab_01/part_2/repor
+t/images/priority_unix.png>]
 Overfull \hbox (1.29012pt too wide) in paragraph at lines 147--148
 []\T2A/cmr/m/n/14.4 При со-зда-нии про-цес-са по-ле p_cpu ини-ци-а-ли-зи-ру-ет-
 ся ну-лем. НА каж-
  []
 
-) [11] [12]
+) [10] [11]
 \openout2 = `conclusion.aux'.
 
- (conclusion.tex) [13
+ (conclusion.tex
+Overfull \hbox (0.92055pt too wide) in paragraph at lines 5--6
+[]\T2A/cmr/m/n/14.4 выполняют де-кре-мент счет-чи-ков вре-ме-ни: тай-ме-ров, сч
+ет-чи-ков вре-
+ []
+
+) [12
 
 
 
@@ -1465,10 +1471,10 @@ See the caption package documentation for explanation.
 
 (report.aux (00_title.aux) (task_1.aux) (task_2.aux) (conclusion.aux)) ) 
 Here is how much of TeX's memory you used:
- 31520 strings out of 478864
- 767838 string characters out of 2848186
- 1354418 words of memory out of 3000000
- 48819 multiletter control sequences out of 15000+600000
+ 31523 strings out of 478864
+ 767937 string characters out of 2848186
+ 1354417 words of memory out of 3000000
+ 48820 multiletter control sequences out of 15000+600000
  418201 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  86i,19n,94p,1846b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1490,9 +1496,9 @@ al\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1000.pk><C:/Users/Р›РµРІ/AppData
 РІ/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/U
 sers/Р›РµРІ/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10
 .pfb>
-Output written on report.pdf (13 pages, 1143361 bytes).
+Output written on report.pdf (12 pages, 1141747 bytes).
 PDF statistics:
- 489 PDF objects out of 1000 (max. 8388607)
+ 484 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  154 words of extra memory for PDF output out of 10000 (max. 10000000)
 
